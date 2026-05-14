@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "XinYan Zhu"
-description              : "This is the academic homepage of XinYan Zhu "
+description              : "Software Technology"
 repository               : "12m284/xinyanzhu.github.io"
 url                      :  "https://12m284.github.io"
 baseurl                  : "/xinyanzhu"
