@@ -72,7 +72,7 @@ My research interest includes:
 - *Adaptability:​ Highly receptive to new things and quick learner of emerging trends.
 
 
-# 🏭 Internships
+# 🏭 Objectives
 - *Develop a pixel game
 - *Publish a research paper
 - *Pursue personal passions
