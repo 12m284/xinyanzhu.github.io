@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "XinYan Zhu"
 description              : "Software Technology"
-repository               : "12m284/xinyanzhu.github.io"
+repository               : "12m284/xinyanzhu"
 url                      :  "https://12m284.github.io"
 baseurl                  : "/xinyanzhu"
 google_scholar_stats_use_cdn : false
