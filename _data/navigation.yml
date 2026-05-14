@@ -6,13 +6,13 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Hobbies"
+    url: "/#-Hobbies"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Conferences"
+  - title: "My Skills"
     url: "/#-conferences"
 
   - title: "Internships"
