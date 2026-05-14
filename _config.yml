@@ -9,6 +9,8 @@
 title                    : "XinYan Zhu"
 description              : "This is the academic homepage of XinYan Zhu "
 repository               : "12m284/xinyanzhu.github.io"
+url                      :  "https://12m284.github.io"
+baseurl                  : "/xinyanzhu"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -22,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "XinYan Zhu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.jpg"
   bio              : 
   location         : "Guangzho, China"
   employer         : #"Hefei General Machinery Research Institute"
