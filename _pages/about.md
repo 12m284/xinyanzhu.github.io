@@ -42,8 +42,6 @@ My research interest includes:
 - playing games
 - listening to music
 
-</div>
-</div>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
@@ -71,6 +69,13 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
   
 - *Awarded 4th place in the group and 8th place overall in the Guangdong Provincial Darts Competition in December 2025.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - *Piano Grade 4 Certificate.
 - *Mandarin Proficiency Test Level 2-B Certificate.
 - *Red Cross Society First Aid Provider Certificate.
