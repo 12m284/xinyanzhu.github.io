@@ -34,7 +34,7 @@ My research interest includes:
 
 ### English 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='"images\achievement-2025-dart.jpg"' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 -	Piano
 - reading
