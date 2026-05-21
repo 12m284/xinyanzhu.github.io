@@ -34,8 +34,7 @@ My research interest includes:
 
 ### English 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='"images\achievement-2025-dart.jpg"' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 -	Piano
 - reading
 - drawing
@@ -68,7 +67,7 @@ My research interest includes:
 # 🏅 Honors and Awards
 ---
 
-<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images\achievement-2025-dart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - *Awarded 4th place in the group and 8th place overall in the Guangdong Provincial Darts Competition in December 2025.
