@@ -88,11 +88,12 @@ My research interest includes:
 - *Personal Traits:​ Inquisitive mindset with a habit of asking insightful questions.
 - *Language Skills:​ Possesses basic knowledge of French.
 - *Adaptability:​ Highly receptive to new things and quick learner of emerging trends.
- <span class='anchor' id='-mbjh'></span>
+ <span class='anchor' id='My-Expertise'></span>
 
 # 🏭 Objectives
 - *Develop a pixel game
 - *Publish a research paper
 - *Pursue personal passions
+ <span class='anchor' id='My-Expertise'></span>
 
   
