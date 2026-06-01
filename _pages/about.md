@@ -94,6 +94,6 @@ My research interest includes:
 - *Develop a pixel game
 - *Publish a research paper
 - *Pursue personal passions
- <span class='anchor' id='My-Expertise'></span>
+ <span class='anchor' id='objectives'></span>
 
   
